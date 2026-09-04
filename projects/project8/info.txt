@@ -3,6 +3,6 @@ title: Osu is a fun game
 cardText1: This is a preview of Osu's primary text.
 cardText2: A glimpse of Osu's secondary text.
 link: osu.ppy.sh
-buttontext: Visit Project
+buttontext: Visit project
 date: 2025-04-18
 tags: github
